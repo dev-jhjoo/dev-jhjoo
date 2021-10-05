@@ -16,7 +16,10 @@ Tech stack
 <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"> -->
 
 ---
-📫 dev.jh.joo@gmial.com Please feel free to contact me. 
+Please feel free to contact me. 
+- 📝 Notion : https://t.ly/vzPd
+- 📫 Mail : dev.jh.joo@gmial.com 
+
 
 <!--
 - 🔭 I’m currently working on ...
